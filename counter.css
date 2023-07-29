@@ -1,8 +1,8 @@
 body{
     background-image: url('download1.jpg');
     background-repeat: no-repeat;
-    background-position: 350px;
-    background-attachment: fixed;
+    background-position: 550px;
+    background-attachment: absolute;
   
 }
 .al{
