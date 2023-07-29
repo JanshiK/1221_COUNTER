@@ -5,6 +5,13 @@ body{
     background-attachment: fixed;
   
 }
+p{
+    background-image: url('download.jpg');
+    background-repeat: no-repeat;
+    margin: 30px 0px 0px 0px;
+    background-position: 150px;
+    background-attachment: fixed;
+}
 
 .al{
     text-align: center;
