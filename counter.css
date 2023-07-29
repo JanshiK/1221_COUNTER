@@ -8,8 +8,6 @@ body{
 p{
     background-image: url('download.jpg');
     background-repeat: no-repeat;
-    margin: 50px 0px 0px 0px;
-    background-position: 10px;
     background-attachment: fixed;
 }
 
